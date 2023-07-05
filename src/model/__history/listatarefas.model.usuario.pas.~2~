@@ -1,0 +1,18 @@
+unit listatarefas.model.usuario;
+
+interface
+
+type
+  TUsuario = class
+    private
+      FNome:string;
+      FEmail:string;
+      FSenha:string;
+      FId:integer;
+
+    public
+
+  end;
+implementation
+
+end.

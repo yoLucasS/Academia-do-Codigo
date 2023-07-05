@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/22 15:40:00.000.720,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 09:53:08.939,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 09:56:12.965,C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\src\view\listatarefas.view.main.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 09:56:12.965,C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\src\view\listatarefas.view.main.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/07/05 09:56:35.442,C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\ProjetoPOO.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/07/05 09:57:21.303,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 10:00:05.882,C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\src\model\listatarefas.model.usuario.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 10:05:17.375,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 10:10:34.097,C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\src\model\listatarefas.model.tarefas.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 10:58:12.463,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 10:58:30.421,C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\src\view\listatarefas.view.cadastrousuario.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 10:58:30.421,C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\src\view\listatarefas.view.cadastrousuario.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\Unit1.dfm</Transaction>
+    <Transaction>2023/07/05 11:08:55.773,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 11:09:12.225,C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\src\view\listatarefas.view.cadastrotarefas.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\Unit1.dfm</Transaction>
+    <Transaction>2023/07/05 11:09:12.225,C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\src\view\listatarefas.view.cadastrotarefas.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Academia do codigo\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
